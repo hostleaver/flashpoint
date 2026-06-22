@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 6,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCAIBoris",
+    "Position": [11879, 328.194, 6576.91],
+    "Orientation": [-55.2, 0, 0],
+    "NPCName": "Coordinator",
+    "DefaultNPCText": "What are we even doing here, eh?",
+    "Waypoints": [[11879, 328.194, 6576.91]],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "NPCOperatorHudson",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 44,
+    "NPCFaction": "West",
+    "NPCType": 2,
+    "Active": 1
+}

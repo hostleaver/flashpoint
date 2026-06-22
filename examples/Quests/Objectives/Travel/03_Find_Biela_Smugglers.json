@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 29,
+    "ID": 3,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find Smugglers on the Biela River",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [11237.037, 170.291, 11255.972],
+    "MaxDistance": 50.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

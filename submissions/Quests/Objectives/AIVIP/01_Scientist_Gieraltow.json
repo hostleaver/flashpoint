@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 29,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Rescue Scientist",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [551.883, 216.415, 8385.87],
+    "SpawnPosition": [11126.3, 350.1, 4342.16],
+    "NPCFaction": "Civilian",
+    "MinDistRadius": 1.0,
+    "MaxDistRadius": 20.0,
+    "MaxDistance": 10.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "IDAPScientistLoadout",
+    "NPCClassName": "eAI_SurvivorM_Niki",
+    "NPCName": "Scientist"
+}

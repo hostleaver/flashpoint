@@ -1,0 +1,72 @@
+{
+    "ConfigVersion": 29,
+    "ID": 1,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Security Rating: ",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [11873.041, 328.193, 6584.757],
+    "Positions": [
+        [11873.041, 328.193, 6584.757],
+        [11463.3, 200.587, 7970.45],
+        [11342.9, 183.917, 9641.26],
+        [10666.5, 181.026, 10970.9]
+    ],
+    "MaxDistance": 1000.0,
+    "MinDistance": -1.0,
+    "Amount": 100,
+    "WeightedKills": 1,
+    "ClassNames": [
+        "PlayerBase",
+        "ZombieBase"
+    ],
+    "ClassNamesWeighted": {
+      "ZombieBase": 1,
+
+      "Animal_CanisLupus": 1,
+      "FS_SlepDog_base": 2,
+      "Animal_UrsusArctos": 10,
+
+      "ZmbM_ConstrWorkerNormal_Beige": 1,
+      "ZmbM_ConstrWorkerNormal_Black": 1,
+      "ZmbM_ConstrWorkerNormal_Green": 1,
+      "ZmbM_ConstrWorkerNormal_Grey": 1,
+      "ZmbM_HeavyIndustryWorker": 1,
+      "ZmbM_OffshoreWorker_Green": 1,
+      "ZmbM_OffshoreWorker_Orange": 1,
+      "ZmbM_OffshoreWorker_Red": 1,
+      "ZmbM_OffshoreWorker_Yellow": 1,
+      "ZmbM_FirefighterNormal_Base": 1,
+
+      "ZmbF_PoliceWomanNormal_Base": 1,
+      "ZmbM_PolicemanFat_Base": 1,
+
+      "ZmbM_SoldierNormal_Base": 2,
+      "ZmbM_PolicemanSpecForce_Base": 2,
+
+      "ZmbM_NBC_Grey": 2,
+      "ZmbM_NBC_White": 2,
+
+      "ZmbM_NBC_Yellow_hl": 3,
+      "ZmbM_NBC_Yellow": 3,
+
+      "Era_Zombies_Clot": 2,
+      "Era_Zombies_Zubastik1": 2,
+      "Era_Zombies_Zubastik2": 2,
+      "tmane_lurk": 2,
+      "tmane_fastlurk": 2,
+
+      "hl_mutant_3B": 20,
+      "ZmbM_Diver_Grey": 20,
+      "FS_Kontroler": 20,
+      "tmane_fatlurk": 30,
+
+      "PlayerBase": 10
+    },
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 1,
+    "AllowedTargetFactions": ["East", "EastSF", "Raiders", "Mercenaries", "Shamans", "EastGuard", "Cannibals", "Lunatics"],
+    "AllowedDamageZones": []
+}

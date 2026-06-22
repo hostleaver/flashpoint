@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "Type": 1,
+    "Title": "Welcome to Livonia",
+    "Descriptions": [
+        "You made it to Livonia. There's a FOG Outpost somewhere in the region. Use a radio to request coordinates, or find it on your own. Watch out for bandits.",
+        "Locate the FOG Outpost. Use a radio or talk directly to the CO.",
+        "%1, you made it, good. Here, pick a spot, get sorted, and talk to me when you're ready."
+    ],
+    "ObjectiveText": "",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "rag_baseitems_sleepingbag_packed_ckeckered_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 29,
+            "ID": 1,
+            "ObjectiveType": 10
+        },
+        {
+            "ConfigVersion": 29,
+            "ID": 1,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -935340804,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

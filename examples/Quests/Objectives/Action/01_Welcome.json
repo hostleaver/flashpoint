@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 29,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Radio In",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ExpansionActionOpenQuestMenu", "ActionHLRadioIn"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

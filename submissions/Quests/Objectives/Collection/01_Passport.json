@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 29,
+    "ID": 1,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find a passport",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "hl_passport_russian",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

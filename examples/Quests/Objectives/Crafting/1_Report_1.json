@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 29,
+    "ID": 1,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Write your report",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "HL_paperwork"
+    ],
+    "ExecutionAmount": 1
+}

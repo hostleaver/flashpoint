@@ -1,0 +1,78 @@
+{
+    "ConfigVersion": 29,
+    "ID": 4,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Replenish Food Stocks",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 100,
+            "ClassName": "Loner_Can_DeerMeat",
+            "Weight": 10
+        },
+        {
+            "Amount": 100,
+            "ClassName": "TacticalBaconCan",
+            "Weight": 10
+        },
+        {
+            "Amount": 100,
+            "ClassName": "BakedBeansCan",
+            "Weight": 10
+        },
+        {
+            "Amount": 100,
+            "ClassName": "SpaghettiCan",
+            "Weight": 8
+        },
+        {
+            "Amount": 100,
+            "ClassName": "PeachesCan",
+            "Weight": 8
+        },
+        {
+            "Amount": 100,
+            "ClassName": "PorkCan",
+            "Weight": 8
+        },
+        {
+            "Amount": 100,
+            "ClassName": "CrabCan",
+            "Weight": 5
+        },
+        {
+            "Amount": 100,
+            "ClassName": "TunaCan",
+            "Weight": 5
+        },
+        {
+            "Amount": 100,
+            "ClassName": "SardinesCan",
+            "Weight": 5
+        },
+        {
+            "Amount": 100,
+            "ClassName": "DogFoodCan",
+            "Weight": 3
+        },
+        {
+            "Amount": 100,
+            "ClassName": "CatFoodCan",
+            "Weight": 3
+        },
+        {
+            "Amount": 100,
+            "ClassName": "UnknownFoodCan",
+            "Weight": 2
+        },
+        {
+            "Amount": 100,
+            "ClassName": "PotatoSeed",
+            "Weight": 2
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 2
+}

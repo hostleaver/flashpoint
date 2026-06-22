@@ -1,0 +1,156 @@
+{
+    "ConfigVersion": 29,
+    "ID": 4,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Locate the stash",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "",
+    "MarkerVisibility": 0,
+    "Positions": [[6581.21, 13.6173, 2493.44]],
+    "LootItemsAmount": 10,
+    "MaxDistance": 100.0,
+    "Loot": [
+        {
+            "Name": "hl_MoneyHryvnia",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 10,
+            "Max": 10,
+            "Min": 2,
+            "Variants": []
+        },
+        {
+            "Name": "hl_MoneyRuble",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 20,
+            "Max": 5,
+            "Min": 2,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBanknoteUSD",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 1,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "Pate",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "BakedBeansCan",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "DisinfectantAlcohol",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 3,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Kvass",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 3,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "HL_document_notes",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 10,
+            "Max": 4,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "HL_document_obs",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 10,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },  
+        {
+            "Name": "HL_document_typed",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 10,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },  
+        {
+            "Name": "AmmoBox_556x45_20Rnd",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_12gaSlug_10Rnd",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_545x39Tracer_20Rnd",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_9x19_25rnd",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 2,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "ElectronicRepairKit",
+            "Chance": 0.5,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        }
+    ]
+}
+
+
+
